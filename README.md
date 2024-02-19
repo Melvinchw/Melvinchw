@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently in a project: [42 Cursus](https://github.com/Melvinchw/42_Cursus)
 
-- 🔭 I’m currently working on [get_next_line](https://github.com/Melvinchw/42_Cursus/tree/main/get_next_line)
+- 🔭 I’m currently working on [push_swap](https://github.com/Melvinchw/42_Cursus/tree/main/get_next_line)
 
 - 📫 How to reach me **melvinchw96@gmail.com**
 
